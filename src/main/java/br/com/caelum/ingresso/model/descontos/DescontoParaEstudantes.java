@@ -11,4 +11,8 @@ public class DescontoParaEstudantes implements Desconto {
 		
 	}
 	
+	public String getDescricao() {
+		return "Desconto Estudante";
+	}
+	
 }
